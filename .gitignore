@@ -122,3 +122,6 @@ push.sh
 .classpath
 /.vscode/
 homepc
+.classpath
+.project
+/.settings

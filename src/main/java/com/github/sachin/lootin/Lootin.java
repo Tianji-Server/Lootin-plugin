@@ -3,7 +3,6 @@ package com.github.sachin.lootin;
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
-import java.util.regex.Matcher;
 
 import com.github.sachin.lootin.commands.Commands;
 import com.github.sachin.lootin.compat.*;

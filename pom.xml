@@ -233,40 +233,12 @@
             <version>0.5.1-SNAPSHOT</version>
         </dependency>
 
-        <!-- CustomStructures -->
-        <dependency>
-            <groupId>com.github.ryandw11</groupId>
-            <artifactId>CustomStructures</artifactId>
-            <version>1.5</version>
-            <systemPath>${project.basedir}/lib/CustomStructures-1.9.0.1.jar</systemPath>
-            <scope>system</scope>
-            
-        </dependency>
 <!--        Vallhalla MMO-->
         <dependency>
             <groupId>me.athlaeos</groupId>
             <artifactId>valhallammo-dist</artifactId>
             <version>dev-0.4</version>
             <scope>provided</scope>
-        </dependency>
-
-        <!-- BetterStructures -->
-        <dependency>
-            <groupId>com.magmaguy.betterstructures</groupId>
-            <artifactId>BetterStructures</artifactId>
-            <version>1.5</version>
-            <systemPath>${project.basedir}/lib/BetterStructures-1.6.10.jar</systemPath>
-            <scope>system</scope>
-
-        </dependency>
-        
-        <!-- Oh the dungeons you all go -->
-        <dependency>
-            <groupId>OhTheDungeon</groupId>
-            <artifactId>ohthedungeon</artifactId>
-            <version>2.0.27</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/OhTheDungeon.jar</systemPath>
         </dependency>
 
         <!-- PlaceHolderApi -->
@@ -276,15 +248,6 @@
              <version>2.10.9</version>
             <scope>provided</scope>
         </dependency>
-
-        <!-- RealisticWorldGenerator -->
-        <dependency>
-            <groupId>net.sourcewriters.spigot.rwg</groupId>
-            <artifactId>legacy-api</artifactId>
-            <version>3.0.0</version>
-            <scope>provided</scope>
-        </dependency>
-
         <dependency>
             <groupId>com.syntaxphoenix.syntaxapi</groupId>
             <artifactId>nbt</artifactId>
